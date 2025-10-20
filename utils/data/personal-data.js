@@ -1,6 +1,6 @@
 export const personalData = {
   name: "ZEAD WAEL",
-  profile: '/profile.jpeg',
+  // profile: '/profile.jpeg',
   designation: "Software Engineer",
   description: " Fourth year student computer science- software & application development department, Cybersecurity enthusiast withhands-on experience in penetration testing, network security, and ethical hacking. Founder and leader of Google Developer Group at BNU, with certifications in CCNA and HCIA. Skilled in Python, Linux, and cybersecurity tools, passionate about securing digital infrastructures and solving complex challenges.",
   email: 'zeyadwaelcs@gmail.com',
